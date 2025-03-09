@@ -23,11 +23,8 @@ pip install tensorflow numpy matplotlib
 # 📁 Estructura del Proyecto MNIST-CNN
 
 ```bash
-NTM/                  # Directorio raíz del proyecto
-│
 ├── dvenv/            # Entorno virtual Python
 ├── CNN_MNIST.py      # Arquitectura principal de la CNN
-├── main.py           # Script principal de entrenamiento
 ├── CNN_prediction.py # Script para hacer predicciones
 │
 ├── models/           # Directorio de modelos guardados
